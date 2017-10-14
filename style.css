@@ -67,3 +67,24 @@ video.fillWidth {
     background: black;
     opacity: 0.5;
 }
+
+.overlay-desc {
+  background: rgba(0,0,0,0);
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 200px;
+  font-size: 60%;
+}
+.overlay-desci {
+  background: rgba(0,0,0,0);
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px;
+  font-size: 60%;
+}
